@@ -1,0 +1,82 @@
+body{
+    background-image: url(fond.jpg);
+
+}
+.general{
+    height: max-content;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.footer{
+    background-color: black;
+    margin-bottom: end;
+    text-align: center;
+}
+P{
+    text-align: center;
+}
+h1{
+ text-align: center;
+ color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+hr{
+    color: orange;
+    height: 10px;
+}
+p{
+    color: white;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+.trait1{
+    background-color: yellow;
+    text-align: center;
+}
+.trait2{
+    background-color: green;
+    text-align: center;
+}
+.trait3{
+    background-color: violet;
+    text-align: center;
+}
+.trait4{
+    background-color: red;
+    text-align: center;
+}
+.trait5{
+    background-color: blue;
+    text-align: center;
+}
+.chiffre{
+    color: white;
+    text-align: center;
+}
+.liste{
+    color: white;
+}
+.nav-link{
+   color: white;
+}
+.contenair{
+    margin-top: 10px;
+}
+.card-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.card-title{
+    color: white;
+    text-align: center;
+}
+.reg{
+    height: 400px;
+    width: 500px;
+}
